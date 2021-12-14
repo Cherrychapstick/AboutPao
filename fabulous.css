@@ -1,0 +1,151 @@
+
+h1#site-title{
+  font-size: 60px;
+  letter-spacing:-3px;
+  margin-top:0;
+  margin-bottom: .125em;
+  color: #E1578A;
+  font-family:Arial;
+  text-align: center;
+  max-width:100%;
+}
+
+h1#page-title{
+  font-size: 30px;
+  letter-spacing:-3px;
+  color: black;
+  font-family:Arial;
+  text-align:center;
+  letter-spacing:2px;
+  margin-top:20;
+
+}
+
+figure.first-image{
+  height:auto;
+  background:#F26A8D;
+  margin-bottom: 20px;
+  border-color:black;
+  text-align: center;
+}
+figure.clouds{
+  height:auto;
+  background:#FFD6C2;
+  margin-bottom: 20px;
+  border-color:black;
+  text-align: center;
+}
+
+figure.notes{
+  height:auto;
+  background:#A6B1E1;
+  margin-bottom: 20px;
+  border-color:black;
+  text-align: center;
+  color: white;
+  font-size: 17px;
+}
+
+figure.hellokitty{
+  height:auto;
+  margin-bottom: 20px;
+  border-color:black;
+  text-align: right;
+  color: black;
+  font-size: 17px;
+}
+
+p{
+  font-family:Georgia;
+  font-size: 18px;
+
+}
+
+img {
+  border: 3px solid black;
+}
+figure.text {
+    text-align: center;
+}
+
+nav ul{
+  display: flex;
+  justify-content:center;
+  gap:30px;
+  list-style:none;
+  padding-left:0;
+  border:1px solid #A0E7E5;
+}
+
+nav ul li a{
+  color: #A0E7E5;
+  text-decoration: none;
+  padding: 12px;
+  display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight:bold;
+  letter-spacing:1px;
+}
+
+nav ul li a:hover {
+border-bottom: 3x solid #5ED7E6;
+padding-bottom:9px;
+}
+
+footer#site-footer {
+  padding: 32px 0;
+  margin-top: 64px;
+  text-align: center;
+  background-color:#E1578A;
+  color: white;
+}
+
+p#foot{
+text-align: center;
+  color: white;
+}
+
+p#author{
+text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+
+.small-container {
+  margin: 0 auto;
+  width: 92%;
+  max-width: 768px;
+}
+h2 {
+  font-weight: 900;
+  margin-bottom: 0;
+  margin-top: 48px;
+  text-align: center;
+}
+figcaption{
+  text-align: center;
+}
+
+p#poem{
+  font-size: 39px;
+  letter-spacing:3px;
+  color: #2B061E;
+  font-family:Arial;
+  text-align: center;
+}
+p#dream-one{
+  font-size: 39px;
+  letter-spacing:3.5px;
+  color: #2B061E;
+  font-family:Georgia;
+  text-align: center;
+}
+h1#duality{
+  text-align: left;
+  font-size: 39px;
+  letter-spacing:3.5px;
+  color: #2B061E;
+  font-family:Georgia;
+}
